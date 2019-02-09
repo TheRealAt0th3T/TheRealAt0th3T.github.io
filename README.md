@@ -1,3 +1,8 @@
+theme: jeykll-theme-modern
+title: Welcome to TheRealAt0th#t's page
+description: ¯\_(ツ)_/¯
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TheRealAt0th3T/TheRealAt0th3T.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
