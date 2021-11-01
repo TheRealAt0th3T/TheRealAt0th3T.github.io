@@ -5,6 +5,8 @@
 Hello! My name is Amara Tariq. I am a Computer Science and Business double major at Boise State University. <br/>
 ![BSU_LOGO](https://static1.squarespace.com/static/58ffab10725e25b57dce3ba5/592889dfbebafbb65517867e/592889df17bffce55c42bc5a/1495828961029/boisestate-leftalignedlogo-2color.png)
 
+## Looking for my CS398 Blog post? 
+[Click here to visit it!](blog.md)
 
 ## Connect with me: <br/>
 
