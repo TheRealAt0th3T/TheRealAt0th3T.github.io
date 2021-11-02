@@ -1,7 +1,7 @@
 # Welcome to TheRealAt0th3t's page
 ![welcome logo](https://media1.tenor.com/images/9ea72ef078139ced289852e8a4ea0c5c/tenor.gif?itemid=7537923)
 
-### _*Description:*_ <br/>
+### _* Description: *_ <br/>
 Hello! My name is Amara Tariq. I am a Computer Science and Business double major at Boise State University. <br/>
 ![BSU_LOGO](https://static1.squarespace.com/static/58ffab10725e25b57dce3ba5/592889dfbebafbb65517867e/592889df17bffce55c42bc5a/1495828961029/boisestate-leftalignedlogo-2color.png)
 
