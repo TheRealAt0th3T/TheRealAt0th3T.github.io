@@ -1,4 +1,4 @@
-#CS 398 Blog Post </br>
-#Fall 2021 </br>
+# CS 398 Blog Post </br>
+# Fall 2021 </br>
 
-##Topic: Video Games, mental health, and cancer treatments
+## Topic: Video Games, mental health, and cancer treatments
